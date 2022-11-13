@@ -1,0 +1,24 @@
+[class=part-one]{
+    color: green;
+}
+[class=part-two] span{
+    color: red
+}
+[class=part-tree] .background-yellow{
+    background-color: yellow;
+}
+[class=part-tree] .background-pink{
+    background-color: pink;
+}
+[class=part-four] .background-yellow{
+background-color: yellow;
+}
+[class=part-four] .background-yellow .red-text{
+    color: red;
+}
+[class=part-four] .background-pink{
+    background-color: pink;
+}
+[class=part-four] .background-pink .blue-text{
+    background-color: blue
+}
